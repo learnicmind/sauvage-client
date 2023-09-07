@@ -102,7 +102,7 @@ const CheckoutForm = ({ cart, price }) => {
 
     return (
         <>
-            <form className="w-2/3 m-8" onSubmit={handleSubmit}>
+            <form className="w-2/3 m-8 mx-auto mt-16" onSubmit={handleSubmit}>
                 <CardElement
                     options={{
                         style: {

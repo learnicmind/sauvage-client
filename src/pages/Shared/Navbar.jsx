@@ -4,11 +4,14 @@ import { useContext } from "react";
 import { AuthContext } from "../../Providers/AuthProvider";
 import { FaCartPlus } from 'react-icons/fa';
 import useCart from "../../hooks/useCart";
+import useAdmin from "../../hooks/useAdmin";
 
 const Navbar = () => {
 
     const { user, logOut } = useContext(AuthContext);
     const [cart] = useCart();
+    const [isAdmin] = useAdmin();
+
 
     const handleLogOUt = () => {
         logOut()
@@ -33,9 +36,15 @@ const Navbar = () => {
         <li className="md:hover:text-slate-400">
             <Link to='/contact'>Contact Us</Link>
         </li>
-        <li className="md:hover:text-slate-400">
-            <Link to='/secret'>secret</Link>
-        </li>
+        {
+            isAdmin ? <li className="md:hover:text-slate-400">
+                <Link to="/dashboard/adminhome">Dashboard</Link>
+            </li>
+                :
+                <li className="md:hover:text-slate-400">
+                    <Link to="/dashboard/userhome">Dashboard</Link>
+                </li>
+        }
         <li className="md:hover:text-yellow-800 text-yellow-700 bg-slate-200 p-1 rounded-lg cursor-pointer">
             <Link to="/dashboard/mycart">
                 <div className="flex items-center gap-2">

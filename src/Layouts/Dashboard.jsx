@@ -32,14 +32,14 @@ const Dashboard = () => {
                     <ul className="menu p-4 w-80 h-full bg-stone-950 text-yellow-500 text-lg font-ubuntu ">
                         {
                             isAdmin ? <>
-                                <li><NavLink to="/dashboard/home"><FaHome /><span>Admin Home</span></NavLink></li>
+                                <li><NavLink to="/dashboard/adminhome"><FaHome /><span>Admin Home</span></NavLink></li>
                                 <li><NavLink to="/dashboard/additem"><ImSpoonKnife /><span>Add an Item</span></NavLink></li>
                                 <li><NavLink to="/dashboard/manageitems"><FaHamburger /><span>Manage Items</span></NavLink></li>
                                 <li><NavLink to="/dashboard/history"><TbBrandBooking /><span>Manage Bookings</span></NavLink></li>
                                 <li><NavLink to="/dashboard/allusers"><FaUsers /><span>All Users</span></NavLink></li>
                             </> :
                                 <>
-                                    <li><NavLink to="/dashboard/home"><FaHome /><span>User Home</span></NavLink></li>
+                                    <li><NavLink to="/dashboard/userhome"><FaHome /><span>User Home</span></NavLink></li>
                                     <li><NavLink to="/dashboard/reservation"><FaCalendarAlt /><span>Reservation</span></NavLink></li>
                                     <li><NavLink to="/dashboard/history"><GiWallet /><span>Payment History</span></NavLink></li>
                                     <li className="grid grid-cols-2">
