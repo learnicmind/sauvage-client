@@ -1,0 +1,458 @@
+[
+    {
+        "_id": "642c155b2c4774f05c36eeaa",
+        "name": "Haddock",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "https://media.istockphoto.com/id/1248171304/photo/strawberry-french-toast.webp?s=170667a&w=0&k=20&c=_W2RsjQ65Q97fFP70CL9bS6X5V2rXTlbQ5VATNEPRDw=",
+        "category": "salad",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb9",
+        "name": "Haddock",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "https://media.istockphoto.com/id/1237066179/photo/stack-of-delicious-classical-homemade-pancakes-with-strawberries-and-blueberries-on-blue.webp?s=170667a&w=0&k=20&c=vbUIAWHO1Dg5LWD8RkwRTh9RDRhsDmOEdy2b2soB4qE=",
+        "category": "drinks",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7c",
+        "name": "Escalope de Veau",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "https://images.unsplash.com/photo-1598214886806-c87b84b7078b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=725&q=80",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee88",
+        "name": "Escalope de Veau",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "https://media.istockphoto.com/id/1006263498/photo/sweet-pancake-tower.webp?s=170667a&w=0&k=20&c=hTdsNO5s4Nfpn19bEsMZxzuTYXLXtE5IzwV4GAhBBro=",
+        "category": "dessert",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7a",
+        "name": "Roast Duck Breast",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "https://images.unsplash.com/photo-1616501268209-edfff098fdd2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHNvdXB8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8c",
+        "name": "Escalope de Veau",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHJlc3RhdXJhbnQlMjBmb29kJTIwaW1hZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "category": "dessert",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee94",
+        "name": "Escalope de Veau",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "https://images.unsplash.com/photo-1552611052-33e04de081de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHJlc3RhdXJhbnQlMjBmb29kJTIwaW1hZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "category": "pizza",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9e",
+        "name": "Breton Fish Stew",
+        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
+        "image": "https://images.unsplash.com/photo-1552611052-d59a0d9741bc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHJlc3RhdXJhbnQlMjBmb29kJTIwaW1hZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "category": "pizza",
+        "price": 12.9
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea6",
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "https://images.unsplash.com/photo-1552611052-60b2c00a2be8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHJlc3RhdXJhbnQlMjBmb29kJTIwaW1hZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "category": "salad",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeaf",
+        "name": "Escalope de Veau",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "https://images.unsplash.com/photo-1666243279025-b6958610bd6a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHJlc3RhdXJhbnQlMjBmb29kJTIwaW1hZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "category": "soup",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee89",
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "https://images.unsplash.com/photo-1656806325608-75b59f8e3e1e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHJlc3RhdXJhbnQlMjBmb29kJTIwaW1hZ2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "category": "dessert",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8a",
+        "name": "Escalope de Veau",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "https://media.istockphoto.com/id/1159986200/photo/fresh-beef-burgers-with-cola-on-wooden-board-party-american-snack.webp?s=170667a&w=0&k=20&c=W5Cq1j7oSplckPjr0nhLAHCUwroKtGsJizs5cdQYji4=",
+        "category": "dessert",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee96",
+        "name": "Fish Parmentier",
+        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+        "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=699&q=80",
+        "category": "pizza",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee81",
+        "name": "Tuna Niçoise",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "https://images.unsplash.com/photo-1544510807-78268e067c70?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Mnw4NTk5NjQ0fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "offered",
+        "price": 10.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee84",
+        "name": "Roast Duck Breast",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "https://images.unsplash.com/photo-1558163250-62987a71f81a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8M3w4NTk5NjQ0fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "dessert",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea4",
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "https://images.unsplash.com/photo-1543339318-b43dc53e19b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NXw4NTk5NjQ0fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "salad",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea5",
+        "name": "Fish Parmentier",
+        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+        "image": "https://images.unsplash.com/photo-1621634890180-0b93f32e10bb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8OHw4NTk5NjQ0fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "salad",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee87",
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "https://images.unsplash.com/photo-1621634890180-0b93f32e10bb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8OHw4NTk5NjQ0fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "dessert",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee83",
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "https://images.unsplash.com/photo-1514537099923-4c0fc7c73161?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8N3w4NTk5NjQ0fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "offered",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7f",
+        "name": "Roasted Pork Belly",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "https://images.unsplash.com/photo-1586985288123-2495f577c250?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZGVzc2VydCUyMGltYWdlc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea8",
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2FsYWQlMjBpbWFnZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "salad",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeba",
+        "name": "Haddock",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "https://images.unsplash.com/photo-1691382075965-3bc7a6db6e3a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZHJpbmtzJTIwaW1hZ2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "drinks",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee80",
+        "name": "Roast Duck Breast",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "https://images.unsplash.com/photo-1521401187146-3a5118db5945?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8ZHJpbmtzJTIwaW1hZ2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "offered",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee90",
+        "name": "Fish Parmentier",
+        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+        "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGVzc2VydHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "dessert",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb0",
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "https://images.unsplash.com/photo-1476718406336-bb5a9690ee2a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c291cHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "soup",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8d",
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZGVzc2VydHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "dessert",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8e",
+        "name": "Escalope de Veau",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZGVzc2VydHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "dessert",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea7",
+        "name": "Fish Parmentier",
+        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+        "image": "https://plus.unsplash.com/premium_photo-1673590981774-d9f534e0c617?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c2FsYWR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "salad",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee99",
+        "name": "Goats Cheese Pizza",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "https://plus.unsplash.com/premium_photo-1679591002618-bc0b4de816cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGl6emF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "pizza",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb3",
+        "name": "Fish Parmentier",
+        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+        "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c291cHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "soup",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb5",
+        "name": "Fish Parmentier",
+        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+        "image": "https://plus.unsplash.com/premium_photo-1669226092302-606cc89ea411?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c291cHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "soup",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb6",
+        "name": "Haddock",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "https://images.unsplash.com/photo-1578861256505-d3be7cb037d3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8c291cHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "soup",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb8",
+        "name": "Haddock",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "https://images.unsplash.com/photo-1518737003272-dac7c4760d5e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHNvdXB8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "soup",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7e",
+        "name": "Fish Parmentier",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "https://plus.unsplash.com/premium_photo-1669687759693-52ba5f9fa7a8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHNvdXB8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8b",
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "https://images.unsplash.com/photo-1508737804141-4c3b688e2546?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8ZGVzc2VydHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "dessert",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8f",
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "https://images.unsplash.com/photo-1495147466023-ac5c588e2e94?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZGVzc2VydHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "dessert",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee91",
+        "name": "Haddock",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans",
+        "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGRlc3NlcnR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "dessert",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee97",
+        "name": "Haddock",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGl6emF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "pizza",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea0",
+        "name": "Roasted Pork Belly",
+        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
+        "image": "https://images.unsplash.com/photo-1594007654729-407eedc4be65?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cGl6emF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "pizza",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea9",
+        "name": "Fish Parmentier",
+        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+        "image": "https://images.unsplash.com/photo-1546793665-c74683f339c1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c2FsYWR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "salad",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee85",
+        "name": "Tuna Niçoise",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "https://images.unsplash.com/photo-1541599188778-cdc73298e8fd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGRlc3NlcnR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "dessert",
+        "price": 10.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee93",
+        "name": "Tuna Niçoise",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "https://images.unsplash.com/photo-1571066811602-716837d681de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cGl6emF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "pizza",
+        "price": 10.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee95",
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "https://images.unsplash.com/photo-1590947132387-155cc02f3212?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8cGl6emF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "pizza",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9b",
+        "name": "Goats Cheese Pizza",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "https://images.unsplash.com/photo-1588315029754-2dd089d39a1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHBpenphfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "category": "pizza",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb7",
+        "name": "Fish Parmentier",
+        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+        "image": "https://images.unsplash.com/photo-1613844237701-8f3664fc2eff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHNvdXB8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "soup",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9c",
+        "name": "Breton Fish Stew",
+        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
+        "image": "https://images.unsplash.com/photo-1541745537411-b8046dc6d66c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHBpenphfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "category": "pizza",
+        "price": 12.9
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9d",
+        "name": "Goats Cheese Pizza",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHBpenphfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "category": "pizza",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeac",
+        "name": "Roasted Pork Belly",
+        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
+        "image": "https://images.unsplash.com/photo-1572449043416-55f4685c9bb7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHNhbGFkfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "category": "salad",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb4",
+        "name": "Haddock",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "https://images.unsplash.com/photo-1620791144170-8a443bf37a33?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHNvdXB8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "soup",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee98",
+        "name": "Breton Fish Stew",
+        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
+        "image": "https://images.unsplash.com/photo-1595854341625-f33ee10dbf94?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHBpenphfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "category": "pizza",
+        "price": 12.9
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee82",
+        "name": "Escalope de Veau",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "https://plus.unsplash.com/premium_photo-1672498294724-dde3b2e41e19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHBpenphfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "category": "offered",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee86",
+        "name": "Escalope de Veau",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "https://images.unsplash.com/photo-1514517220017-8ce97a34a7b6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGRlc3NlcnR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "dessert",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9a",
+        "name": "Breton Fish Stew",
+        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
+        "image": "https://media.istockphoto.com/id/184969517/photo/marinara-pizza.webp?b=1&s=170667a&w=0&k=20&c=UsmfG7Fo74GHGR_XA4LjEPmDWM7dBfykmQNNn--JyPc=",
+        "category": "pizza",
+        "price": 12.9
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeab",
+        "name": "Goats Cheese Pizza",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "https://images.unsplash.com/photo-1607532941433-304659e8198a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c2FsYWR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "salad",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb1",
+        "name": "Fish Parmentier",
+        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+        "image": "https://images.unsplash.com/photo-1578859318509-62790b079366?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHNvdXB8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "category": "soup",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eead",
+        "name": "Roast Duck Breast",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "https://media.istockphoto.com/id/1447991052/photo/homemade-manhattan-clam-chowder.webp?b=1&s=170667a&w=0&k=20&c=NpGMr8TE710mahdG2IlhXYagrro4Ce3A-QOpmKp0YLc=",
+        "category": "soup",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeae",
+        "name": "Tuna Niçoise",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "https://media.istockphoto.com/id/1457757175/photo/homemade-red-lentil-soup-with-naan-bread.webp?b=1&s=170667a&w=0&k=20&c=waNbx_378A1RXWXrBG6zu3_JSHREy_jFmTa3VQYKRu8=",
+        "category": "soup",
+        "price": 10.5
+    }
+]
