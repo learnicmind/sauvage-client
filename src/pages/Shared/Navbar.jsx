@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
 import logo from '../../assets/logo.png'
 import { useContext } from "react";
 import { AuthContext } from "../../Providers/AuthProvider";
@@ -25,33 +25,47 @@ const Navbar = () => {
 
     const navItems = <>
         <li className="md:hover:text-slate-400">
-            <Link to='/'>Home</Link>
+            <NavLink className={({ isActive }) =>
+                isActive ? 'border-b-2 border-yellow-500' : ''
+            } to='/'>Home</NavLink>
         </li>
         <li className="md:hover:text-slate-400">
-            <Link to='/menu'>Our Menu</Link>
+            <NavLink className={({ isActive }) =>
+                isActive ? 'border-b-2 border-yellow-500' : ''
+            } to='/menu'>Our Menu</NavLink>
         </li>
         <li className="md:hover:text-slate-400">
-            <Link to='/order'>Order Food</Link>
+            <NavLink className={({ isActive }) =>
+                isActive ? 'border-b-2 border-yellow-500' : ''
+            } to='/order'>Order Food</NavLink>
         </li>
         <li className="md:hover:text-slate-400">
-            <Link to='/contact'>Contact Us</Link>
+            <NavLink className={({ isActive }) =>
+                isActive ? 'border-b-2 border-yellow-500' : ''
+            } to='/contact'>Contact Us</NavLink>
         </li>
         {
             isAdmin ? <li className="md:hover:text-slate-400">
-                <Link to="/dashboard/adminhome">Dashboard</Link>
+                <NavLink className={({ isActive }) =>
+                    isActive ? 'border-b-2 border-yellow-500' : ''
+                } to="/dashboard/adminhome">Dashboard</NavLink>
             </li>
                 :
                 <li className="md:hover:text-slate-400">
-                    <Link to="/dashboard/userhome">Dashboard</Link>
+                    <NavLink className={({ isActive }) =>
+                        isActive ? 'border-b-2 border-yellow-500' : ''
+                    } to="/dashboard/userhome">Dashboard</NavLink>
                 </li>
         }
         <li className="md:hover:text-yellow-800 text-yellow-700 bg-slate-200 p-1 rounded-lg cursor-pointer">
-            <Link to="/dashboard/mycart">
+            <NavLink className={({ isActive }) =>
+                isActive ? 'border-b-2 border-yellow-500' : ''
+            } to="/dashboard/mycart">
                 <div className="flex items-center gap-2">
                     <FaCartPlus />
                     <p className="bg-slate-300 rounded-lg">+{cart.length || 0}</p>
                 </div>
-            </Link>
+            </NavLink>
         </li>
         {
             user ? <>
@@ -61,7 +75,9 @@ const Navbar = () => {
                 </li>
             </> : <>
                 <li className="md:hover:text-slate-400 text-yellow-500">
-                    <Link to='/login'>Login</Link>
+                    <NavLink className={({ isActive }) =>
+                        isActive ? 'border-b-2 border-yellow-500' : ''
+                    } to='/login'>Login</NavLink>
                 </li>
             </>
         }

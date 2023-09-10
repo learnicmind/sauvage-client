@@ -82,7 +82,7 @@ const Login = () => {
                                 <label className="label text-slate-300">
                                     <span className="label-text text-slate-200 text-lg font-ubuntu">Password</span>
                                 </label>
-                                <input name="password" type="password" placeholder="password" className="input input-bordered text-slate-300 bg-stone-700" />
+                                <input name="password" type="text" placeholder="password" className="input input-bordered text-slate-300 bg-stone-700" />
                             </div>
 
                             <div className="form-control">

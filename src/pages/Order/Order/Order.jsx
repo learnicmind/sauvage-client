@@ -23,7 +23,7 @@ const Order = () => {
     return (
         <div>
             <Helmet>
-                <title>Sauvage || Order</title>
+                <title>Sauvage | Order</title>
             </Helmet>
             <Cover image={orderImg} title={"Order Now"} />
             <Tabs className="py-20 w-11/12 mx-auto" defaultIndex={tabIndex} onSelect={(index) => setTabIndex(index)}>

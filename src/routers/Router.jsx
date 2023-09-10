@@ -19,6 +19,7 @@ import ManageItems from "../pages/Dashboard/ManageItems/ManageItems";
 import Payment from "../pages/Dashboard/Payment/Payment";
 import UserHome from "../pages/Dashboard/UserHome/UserHome";
 import AdminHome from "../pages/Dashboard/AdminHome/AdminHome";
+import UserReview from "../pages/UserReview/UserReview";
 
   export const router = createBrowserRouter([
     {
@@ -62,6 +63,10 @@ import AdminHome from "../pages/Dashboard/AdminHome/AdminHome";
         {
           path: "userhome",
           element: <UserHome></UserHome>
+        },
+        {
+          path: 'review',
+          element: <UserReview></UserReview>
         },
         {
           path: "mycart",

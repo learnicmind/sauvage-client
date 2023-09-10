@@ -7,14 +7,14 @@ const ContactForm = ({ img1, subheading, img2, heading }) => {
 
 
     return (
-        <div className="w-11/12 mx-auto pt-4">
+        <div className="w-11/12 mx-auto">
             <SectionTitle 
             img1={contactImg1}
             subheading={"Send Us a Message"}
             img2={contactImg2}
             heading={"Contact Form"}
              />
-            <form className="card-body">
+            <form className="card-body w-3/4 mx-auto">
                 <div className="form-control">
                     <label className="label">
                         <span className="label-text font-bold text-yellow-500 text-lg font-ubuntu">Your Name</span>
